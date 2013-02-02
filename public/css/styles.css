@@ -1,0 +1,25 @@
+body
+{
+	margin:0px;
+	padding:10px 0px 10px 0px;
+}
+
+div 
+{
+	text-align: justify;
+	padding: 0px;
+	width: 378px;
+	overflow-x:hidden; 
+}
+
+img
+{
+	height: auto;
+	max-width: 384px;
+}
+
+.title
+{
+	text-decoration:underline;
+	font-size:19px;
+}
